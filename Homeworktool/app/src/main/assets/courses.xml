@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courses>
+    <courseID>
+        <name>Software Engineering</name>
+        <professor>Issacs</professor>
+        <number>350</number>
+        <section>01</section>
+    </courseID>
+</courses>
